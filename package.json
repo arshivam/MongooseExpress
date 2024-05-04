@@ -1,0 +1,16 @@
+{
+  "name": "mongooseexpress",
+  "version": "1.0.0",
+  "description": "This is project to connect mongodb with help of mongoose package and Express.js",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Armarkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3"
+  }
+}
